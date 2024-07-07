@@ -1,0 +1,36 @@
+[1, 2, 2, 1, 1]
+(pick-up-from-table-b0)
+0
+[0, 3, 2, 0, 1]
+false
+
+[0, 3, 2, 0, 1]
+(put-on-block-b0-b1)
+1
+[1, 1, 2, 1, 0]
+true
+
+[1, 2, 2, 1, 1]
+(pick-up-from-table-b0)
+0
+[0, 3, 2, 0, 1]
+false
+
+[0, 3, 2, 0, 1]
+(put-on-table-b0)
+0
+[1, 2, 2, 1, 1]
+false
+
+[1, 2, 2, 1, 1]
+(pick-up-from-table-b0)
+0
+[0, 3, 2, 0, 1]
+false
+
+[0, 3, 2, 0, 1]
+(put-on-block-b0-b1)
+1
+[1, 1, 2, 1, 0]
+true
+
